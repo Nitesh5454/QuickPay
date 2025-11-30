@@ -1,16 +1,32 @@
-# React + Vite
+<h1 align="center">🚀 QuickPay – Modern UI for Payment Solutions</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  A fast and responsive frontend interface built with <b>React</b> & <b>Tailwind CSS</b> to showcase a seamless digital payment experience.
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🎨 Beautiful and responsive user interface
+- 🔗 UI for payment links, buttons & checkout preview
+- 📱 Mobile-friendly layout
+- ⚡ Super-fast setup with Vite
+- 🧩 Component-based architecture for scalability
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Technology | Description |
+|-----------|-------------|
+| React     | Frontend UI framework |
+| Vite      | Development & build tool |
+| Tailwind CSS | Modern utility-based styling |
+| JavaScript / JSX | Core language |
+| Git & GitHub | Version control |
+
+---
+
+## 📸 UI Preview (Add screenshots later)
+
