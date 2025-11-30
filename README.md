@@ -57,21 +57,25 @@ Live Website: https://quick-pay-zeta.vercel.app/
 <img width="961" height="470" alt="Screenshot 2025-12-01 023753" src="https://github.com/user-attachments/assets/453acfd1-adc4-449a-895b-d7b69459a7f6" />
 
 <hr/> <h2>📂 Folder Structure</h2>
+
+
+```bash```
 src/
- ├── components/
- │   ├── Navbar/
- │   ├── PartnerSlider.jsx
- │   ├── HeroFeaturesSection.jsx
- │   ├── FeatureShowcaseSection.jsx
- │   ├── IndustrySection.jsx
- │   ├── PaymentTools.jsx
- │   ├── GetStartedSection.jsx
- │   ├── Footer.jsx
- │   └── ...
- ├── pages/
- │   └── Home.jsx
- └── lib/
-     └── utils.js
+├── components/
+│   ├── Navbar/
+│   ├── PartnerSlider.jsx
+│   ├── HeroFeaturesSection.jsx
+│   ├── FeatureShowcaseSection.jsx
+│   ├── IndustrySection.jsx
+│   ├── PaymentTools.jsx
+│   ├── GetStartedSection.jsx
+│   ├── Footer.jsx
+│   └── ...
+├── pages/
+│   └── Home.jsx
+└── lib/
+    └── utils.js
+
 
 
 
