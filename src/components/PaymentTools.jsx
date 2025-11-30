@@ -1,4 +1,4 @@
-import React from "react";
+
 import AnimatedBackground from "./ui/animated_background";
 import {
   Link,

@@ -1,6 +1,6 @@
 import React from "react";
 
-const Upfooter = () => {
+const GetStartedSection = () => {
   return (
     <div className="w-full mt-12 sm:mt-16 md:mt-20 py-12 sm:py-14 md:py-16 px-4 sm:px-6 bg-white dark:bg-[linear-gradient(to_bottom_right,#0f172a,#020617)] from-slate-900 via-slate-950 to-black dark:bg-grid-white/[0.05]">
       <div className="max-w-7xl mx-auto text-center">
@@ -24,4 +24,4 @@ const Upfooter = () => {
   );
 };
 
-export default Upfooter;
+export default GetStartedSection;

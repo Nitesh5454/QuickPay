@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 
-export default function Industry() {
+export default function IndustrySection() {
   const [current, setCurrent] = useState(0);
 
   const slides = [

@@ -1,13 +1,13 @@
-import React, { useState, useEffect } from "react";
+import  { useState, useEffect } from "react";
 
-const SwapPage = () => {
+const FeatureShowcaseSection = () => {
   const [active, setActive] = useState(null);
   const [isMobile, setIsMobile] = useState(false);
 
-  // Detect mobile screen
+
   useEffect(() => {
     const checkScreen = () => {
-      setIsMobile(window.innerWidth < 768); // md breakpoint
+      setIsMobile(window.innerWidth < 768); 
     };
 
     checkScreen();
@@ -117,4 +117,4 @@ const SwapPage = () => {
   );
 };
 
-export default SwapPage;
+export default FeatureShowcaseSection;

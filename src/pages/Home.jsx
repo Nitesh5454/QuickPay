@@ -1,13 +1,11 @@
-// src/pages/Home.jsx (or wherever this lives)
-import React from "react";
-import { InfiniteMovingCardsDemo } from "../components/MovingCard";
-import Middle from "../components/Middle";
-import SwapPage from "../components/SwapPage";
-import Industry from "../components/Industry";
-import AnimatedCardHover from "../components/PaymentBottom";
-import Upfooter from "../components/Upfooter";
+import { InfiniteMovingCardsDemo } from "../components/PartnerSlider";
+import HeroFeaturesSection from "../components/HeroFeaturesSection";
+import FeatureShowcaseSection from "../components/FeatureShowcaseSection";
+import IndustrySection from "../components/IndustrySection";
+import AnimatedCardHover from "../components/PaymentTools";
+import GetStartedSection from "../components/GetStartedSection";
 import Footer from "../components/Footer";
- import { NumberTicker } from "../components/ui/number";
+import { NumberTicker } from "../components/ui/number";
 
 const Home = () => {
   return (
@@ -40,8 +38,12 @@ const Home = () => {
           </div>
 
           <p className="text-[11px] sm:text-xs md:text-sm text-slate-400">
-            No setup fees • Instant activation • Trusted by <NumberTicker value={10000} className={`text-slate-400`}>
-              </NumberTicker>+ businesses
+            No setup fees • Instant activation • Trusted by{" "}
+            <NumberTicker
+              value={10000}
+              className={`text-slate-400`}
+            ></NumberTicker>
+            + businesses
           </p>
         </div>
 
@@ -95,21 +97,20 @@ const Home = () => {
         </div>
       </div>
 
-      {/* === MOVING CARDS SECTION === */}
       <div className="w-full mt-8 sm:mt-10">
         <InfiniteMovingCardsDemo />
       </div>
 
       <div className="mt-6 sm:mt-8 w-full">
-        <Middle />
+        <HeroFeaturesSection />
       </div>
 
       <div className="mt-6 sm:mt-8 w-full">
-        <SwapPage />
+        <FeatureShowcaseSection />
       </div>
 
       <div className="mt-4 sm:mt-6">
-        <Industry />
+        <IndustrySection />
       </div>
 
       <div className="mt-4 sm:mt-6">
@@ -117,7 +118,7 @@ const Home = () => {
       </div>
 
       <div className="mt-4 sm:mt-6">
-        <Upfooter />
+        <GetStartedSection />
       </div>
 
       <div className="mt-2 sm:mt-4">

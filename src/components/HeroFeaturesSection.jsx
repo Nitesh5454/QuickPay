@@ -1,6 +1,6 @@
-import React from "react";
 
-const Middle = () => {
+
+const HeroFeaturesSection = () => {
   return (
     <section className="w-full bg-white dark:bg-[linear-gradient(to_bottom_right,#0f172a,#020617)] from-slate-900 via-slate-950 to-black dark:bg-grid-white/[0.05] py-14 sm:py-16 md:py-20 px-4 sm:px-6 md:px-10 lg:px-16">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8 md:gap-10">
@@ -33,4 +33,4 @@ const Middle = () => {
   );
 };
 
-export default Middle;
+export default HeroFeaturesSection;
