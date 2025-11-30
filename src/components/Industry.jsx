@@ -11,7 +11,7 @@ export default function Industry() {
       headline: "Empower your e-commerce business",
       description:
         "Streamline payment management with a unified dashboard, enabling both online and in-person payment collection while enhancing conversion rates and minimizing fraud.",
-      customers: "+ 70,000 others",
+      customers: "+ 60,000 others",
       button: "See Solutions",
       img: "/ecommerce.png",
     },
@@ -20,7 +20,7 @@ export default function Industry() {
       headline: "Payments for your education business.",
       description:
         "Effortlessly establish and monitor fee payments and vendor payouts for educational institutions, tutorials, or online courses, whether you have a website or not.",
-      customers: "+ 21,000 others",
+      customers: "+ 22,000 others",
       button: "See Solutions",
       img: "/education.png",
     },
@@ -29,7 +29,7 @@ export default function Industry() {
       headline: "Payments ecosystem for financial services",
       description:
         "Streamline collection management, automate recurring payments, and expedite loan disbursement for a comprehensive financial solution.",
-      customers: "+ 2800 others",
+      customers: "+ 1800 others",
       button: "See Solutions",
       img: "/bfsi.png",
     },
@@ -38,7 +38,7 @@ export default function Industry() {
       headline: "Global Payment Solutions for IT & SaaS Providers",
       description:
         "Seamlessly accept payments in over 100 currencies, facilitate customizable subscription payments, and efficiently execute vendor payouts.",
-      customers: "+ 13,500 others",
+      customers: "+ 14,500 others",
       button: "See Solutions",
       img: "/saas.png",
     },
