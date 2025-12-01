@@ -39,10 +39,10 @@ This project demonstrates strong UI/UX engineering, reusable component architect
 
 ```bash```
 git clone https://github.com/Nitesh5454/QuickPay.git
-cd QuickPay/frontend
-npm install
-npm run dev
-npm run build
+cd QuickPay/frontend <br/>
+npm install <br/>
+npm run dev <br/>
+npm run build <br/> 
 
 
 <hr/> <h2>🌍 Deployment</h2>
