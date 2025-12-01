@@ -1,5 +1,4 @@
-// src/App.jsx
-import React from "react";
+
 import { Routes, Route } from "react-router-dom";
 import { NavbarDemo } from "./components/Navbar";
 import Home from "./pages/Home";
