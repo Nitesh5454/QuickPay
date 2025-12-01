@@ -38,7 +38,7 @@ This project demonstrates strong UI/UX engineering, reusable component architect
 <h2>📦 Installation & Setup</h2>
 
 ```bash```
-git clone https://github.com/Nitesh5454/QuickPay.git
+git clone https://github.com/Nitesh5454/QuickPay.git <br/>
 cd QuickPay/frontend <br/>
 npm install <br/>
 npm run dev <br/>
@@ -62,19 +62,19 @@ Live Website: https://quick-pay-zeta.vercel.app/
 ```bash```
 src/
 ├── components/
-│   ├── Navbar/
-│   ├── PartnerSlider.jsx
-│   ├── HeroFeaturesSection.jsx
-│   ├── FeatureShowcaseSection.jsx
-│   ├── IndustrySection.jsx
-│   ├── PaymentTools.jsx
-│   ├── GetStartedSection.jsx
-│   ├── Footer.jsx
-│   └── ...
-├── pages/
-│   └── Home.jsx
-└── lib/
-    └── utils.js
+│   ├── Navbar/ <br/>
+│   ├── PartnerSlider.jsx <br/>
+│   ├── HeroFeaturesSection.jsx <br/>
+│   ├── FeatureShowcaseSection.jsx <br/>
+│   ├── IndustrySection.jsx <br/>
+│   ├── PaymentTools.jsx <br/>
+│   ├── GetStartedSection.jsx <br/>
+│   ├── Footer.jsx <br/>
+│   └── ... <br/>
+├── pages/ <br/>
+│   └── Home.jsx <br/>
+└── lib/ <br/>
+    └── utils.js <br/>
 
 
 
